@@ -1,0 +1,21 @@
+{
+  "short_name": "Kimutai Joel Portfolio",
+  "name": "Kimutai Joel - Software Engineer & Full Stack Developer",
+  "icons": [
+    {
+      "src": "jk192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "jk512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#3B82F6",
+  "background_color": "#2563EA"
+}
