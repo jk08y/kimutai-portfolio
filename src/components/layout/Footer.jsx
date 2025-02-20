@@ -75,7 +75,7 @@ const Footer = () => {
             © {currentYear} Kimutai Joel. All rights reserved.
           </p>
           <a 
-            href="https://github.com/jk08y/kimutai-portfolo" 
+            href="https://github.com/jk08y/kimutai-portfolio" 
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center text-gray-500 hover:text-blue-500 text-xs mt-2 transition-colors"
