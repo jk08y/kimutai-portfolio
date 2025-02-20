@@ -25,7 +25,7 @@ const projects = [
     description: 'WebRTC-powered app for seamless video communication',
     technologies: ['React', 'WebRTC', 'Socket.IO', 'WebSockets', 'Node.js'],
     category: 'Web Development',
-    githubLink: 'https://github.com/jk08/',
+    githubLink: 'https://github.com/jk08y/',
     liveLink: null,
     image: '/projects/video-chat.png',
     details: [
@@ -59,7 +59,7 @@ const projects = [
     description: 'Modern job listing platform with Next.js 14',
     technologies: ['Next.js', 'TypeScript', 'React', 'Prisma', 'PostgreSQL'],
     category: 'Web Development',
-    githubLink: 'https://github.com/jk08/',
+    githubLink: 'https://github.com/jk08y/',
     liveLink: null,
     image: '/projects/job-board.png',
     details: [
@@ -93,7 +93,7 @@ const projects = [
     description: 'Video app using Django and ZegoCloud',
     technologies: ['Django', 'Python', 'WebRTC', 'PostgreSQL', 'React'],
     category: 'Web Development',
-    githubLink: 'https://github.com/jk08/',
+    githubLink: 'https://github.com/jk08y/',
     liveLink: null,
     image: '/projects/django-video.png',
     details: [
