@@ -52,7 +52,7 @@ Edit content in `/src/data` directory:
 - MIT License - no attribution required
 
 ## Contact
-Kimutai Joel - [hey@jkapp.pro](mailto:kimtai@jkapp.pro)
+Kimutai Joel - [kimutai@jkapp.pro](mailto:kimutai@jkapp.pro)
 GitHub: [jk08y](https://github.com/jk08y)
 Live: [pf.jkapp.pro](https://pf.jkapp.pro)
 
