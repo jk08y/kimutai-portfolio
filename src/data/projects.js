@@ -4,6 +4,25 @@
 const projects = [
   {
     id: 1,
+    title: 'Mermaid Editor Pro',
+    description: 'Modern, browser-based editor for creating diagrams using Mermaid syntax',
+    technologies: ['React', 'TypeScript', 'Monaco Editor', 'Mermaid.js', 'TailwindCSS', 'Vite'],
+    category: 'Web Development',
+    githubLink: 'https://github.com/jk08y/mermaid-editor',
+    liveLink: 'https://cs5.pro',
+    image: '/projects/mermaid-editor.png',
+    details: [
+      'Live diagram preview',
+      'Multiple diagram types support',
+      'Auto-save functionality',
+      'Export to SVG/PNG',
+      'Dark & Light themes',
+      'Template gallery'
+    ],
+    featured: true
+  },
+  {
+    id: 2,
     title: 'Secure File Sharing App',
     description: 'Lightweight, secure file-sharing platform with advanced features',
     technologies: ['PHP', 'JavaScript', 'SQL', 'JSON'],
@@ -20,7 +39,7 @@ const projects = [
     featured: true
   },
   {
-    id: 2,
+    id: 3,
     title: 'Video Chat App',
     description: 'WebRTC-powered app for seamless video communication',
     technologies: ['React', 'WebRTC', 'Socket.IO', 'WebSockets', 'Node.js'],
@@ -37,7 +56,7 @@ const projects = [
     featured: true
   },
   {
-    id: 3,
+    id: 4,
     title: 'X API Automation',
     description: 'Flask app for tweet scheduling and automation',
     technologies: ['Python', 'Flask', 'API Integration'],
@@ -54,7 +73,7 @@ const projects = [
     featured: false
   },
   {
-    id: 4,
+    id: 5,
     title: 'Job Board App',
     description: 'Modern job listing platform with Next.js 14',
     technologies: ['Next.js', 'TypeScript', 'React', 'Prisma', 'PostgreSQL'],
@@ -71,7 +90,7 @@ const projects = [
     featured: true
   },
   {
-    id: 5,
+    id: 6,
     title: 'CLI Productivity Toolkit',
     description: 'Terminal toolkit to enhance productivity',
     technologies: ['Zsh', 'Bash', 'Shell', 'Python', 'Tmux'],
@@ -88,7 +107,7 @@ const projects = [
     featured: false
   },
   {
-    id: 6,
+    id: 7,
     title: 'Django Video Conferencing',
     description: 'Video app using Django and ZegoCloud',
     technologies: ['Django', 'Python', 'WebRTC', 'PostgreSQL', 'React'],
