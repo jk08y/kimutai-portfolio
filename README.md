@@ -1,7 +1,5 @@
 # Modern React Portfolio 
 
-![Portfolio Screenshot](public/preview.png)
-
 ## Features
 - Responsive for all devices
 - Dark/Light mode toggle
