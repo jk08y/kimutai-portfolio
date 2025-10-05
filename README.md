@@ -24,7 +24,7 @@
 ## Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/jk08y/kimutai-portfolio.git
+git clone https://github.com/jk08y/kp.git
 
 # Install dependencies
 npm install
