@@ -1,19 +1,19 @@
-# Modern React Portfolio 
+### Modern React Portfolio 
 
-## Features
+### Features
 - Responsive for all devices
 - Dark/Light mode toggle
 - Smooth animations
 - Fast performance
 - Accessible design
 
-## Tech Stack
+### Tech Stack
 - React & React Router
 - Tailwind CSS
 - Framer Motion
 - Lucide Icons
 
-## Sections
+### Sections
 - Hero & About
 - Experience Timeline
 - Projects Showcase
@@ -21,7 +21,7 @@
 - Certifications
 - Contact Form
 
-## Quick Start
+### Quick Start
 ```bash
 # Clone repository
 git clone https://github.com/jk08y/kp.git
@@ -36,7 +36,7 @@ npm start
 npm run build
 ```
 
-## Customization
+### Customization
 Edit content in `/src/data` directory:
 - projects.js
 - skills.js
@@ -44,7 +44,7 @@ Edit content in `/src/data` directory:
 - certifications.js
 - contactInfo.js
 
-## Reuse & License
+### Reuse & License
 - Free to use, modify, and redistribute
 - Perfect for personal portfolios
 - MIT License - no attribution required
