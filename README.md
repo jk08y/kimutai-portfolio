@@ -48,11 +48,5 @@ Edit content in `/src/data` directory:
 - Free to use, modify, and redistribute
 - Perfect for personal portfolios
 - MIT License - no attribution required
-
-## Contact
-Kimutai Joel - [kimutai@jkapp.pro](mailto:kimutai@jkapp.pro)
-GitHub: [jk08y](https://github.com/jk08y)
-Live: [pf.jkapp.pro](https://pf.jkapp.pro)
-
 ---
 Built with care | Feel free to fork!
